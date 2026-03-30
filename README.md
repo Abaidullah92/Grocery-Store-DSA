@@ -28,10 +28,6 @@ It simulates a basic store system where products can be managed efficiently.
 2. Compile the main.cpp file
 3. Run the program
 
-## 📷 Sample Output
-<img width="901" height="477" alt="image" src="https://github.com/user-attachments/assets/01e58681-21d3-4dfe-86a4-2674ea8bd65e" />
-
-
 ## 👨‍💻 Author
 Abaidullah
 
