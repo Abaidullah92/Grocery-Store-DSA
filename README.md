@@ -33,7 +33,7 @@ It simulates a basic store system where products can be managed efficiently.
 3. Run the program
 
 ## 👨‍💻 Author
-Abaidullah
+Abaidullah Tasleem
 
 
 
