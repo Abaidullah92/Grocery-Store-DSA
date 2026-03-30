@@ -13,11 +13,15 @@ It simulates a basic store system where products can be managed efficiently.
 - Billing system
 
 ## 🧠 DSA Concepts Used
-- Arrays / Vectors
-- Structures (struct)
-- Searching Algorithms
-- Sorting Techniques
-- File Handling (optional)
+- 📦 Arrays
+- 🔗 Linked List
+-📥 Queue
+- 📤 Stack
+- 🕸 Graph
+- 🌳 Trees
+- 🔍 Searching Algorithms
+- 🔃 Sorting Algorithms
+- 💾 File Handling (Optional)
 
 ## 🛠 Technologies Used
 - C++
