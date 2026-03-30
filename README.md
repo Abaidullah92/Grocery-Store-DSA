@@ -30,6 +30,10 @@ It simulates a basic store system where products can be managed efficiently.
 - C++
 - DSA Concepts
 
+  ## Sample Output
+  <img width="493" height="204" alt="image" src="https://github.com/user-attachments/assets/8628f59c-7f04-4340-aae8-1338f02e4df0" />
+
+
 ## ▶️ How to Run
 1. Open the project in any C++ compiler (Dev C++, CodeBlocks, VS Code)
 2. Compile the main.cpp file
